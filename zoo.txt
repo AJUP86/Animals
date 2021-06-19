@@ -1,5 +1,7 @@
 Zoo's Animals 
 
-Giraf
+Giraffe
 Hippopotamus
 Lion
+Gorilla
+Parrot
